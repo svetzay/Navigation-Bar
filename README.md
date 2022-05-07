@@ -9,4 +9,4 @@ The navigation bar with a sliding bar that indicates a selected item, the bar re
 
 ● ES6 and CSS 
 
-● Displays the current time of the selected city.
+● Displays the current time and date of the selected city.
